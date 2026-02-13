@@ -1,3 +1,0 @@
-/home/kyle/CLionProjects/CommandAutocomplete/build/CMakeFiles/shit.dir
-/home/kyle/CLionProjects/CommandAutocomplete/build/CMakeFiles/edit_cache.dir
-/home/kyle/CLionProjects/CommandAutocomplete/build/CMakeFiles/rebuild_cache.dir
